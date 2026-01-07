@@ -1,2 +1,2 @@
 # my-code-repo
-A record of my code and programming learning journey. It may cover various topics, will keep expanding, and is driven by personal interest.
+This is my code repository, which includes multiple areas related to my programming learning journey. Anyone who comes across this repository can use it to learn programming at their convenience. It will be updated on an ongoing basis as I pursue continuous learning.
