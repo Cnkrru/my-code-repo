@@ -1,2 +1,2 @@
 # my-code-repo
-This is my code repository, which includes multiple areas related to my programming learning journey. Anyone who comes across this repository can use it to learn programming at their convenience. It will be updated on an ongoing basis as I pursue continuous learning.
+这是我的代码仓库，其中包含与我的编程学习历程相关的多个领域。任何看到这个仓库的人都可以随时利用它来学习编程。随着我不断学习，此仓库也将持续更新。
