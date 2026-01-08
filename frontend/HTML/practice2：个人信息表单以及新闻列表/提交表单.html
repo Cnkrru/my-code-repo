@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>提交表单</title>
+</head>
+<body>
+
+    <h1>注册信息</h1>
+    <hr>
+    <form>
+        <h2>个人信息</h2>
+        <br>
+        账户: <input type="text" placeholder="请输入账户">
+        <br>
+        密码: <input type="password" placeholder="请输入密码">
+        <br>
+        确认密码： <input type="password" placeholder="请再次输入密码">
+        <br>
+        性别：
+        <label><input type="radio" name="gender">男</label>
+        <label><input type="radio" name="gender">女</label>
+        <br>
+        城市：
+        <select>
+            <option>北京</option>
+            <option>吉林</option>
+            <option>河南</option>
+            <option>河北</option>
+            <option>上海</option>
+            <option>湖北</option>
+        </select>
+        
+        <hr>
+        <h2>教育经历</h2>
+        <br>
+        最高学历：
+        <select>
+            <option>博士</option>
+            <option>硕士</option>
+            <option>大学</option>
+            <option>高中</option>
+            <option>初中</option>
+            <option>小学</option>
+        </select>
+        <br>
+        学校名称：
+        <input type="text" placeholder="请输入学校名称">
+        <br>
+        所在专业：
+        <input type="text" placeholder="请输入所在专业">
+        <br>
+        入学时间：
+        <span>
+            <select>
+                <option>2012</option>
+                <option>2013</option>
+                <option>2014</option>
+                <option>2015</option>
+                <option>2016</option>
+            </select>
+            --
+            <select>
+                <option>2016</option>
+                <option>2017</option>
+                <option>2018</option>
+                <option>2019</option>
+                <option>2020</option>
+            </select>
+        </span>
+
+        <hr>
+        工作经历：
+        <br>
+        公司名称：
+        <input type="text" placeholder="请输入公司名称">
+        <br>
+        工作职务:
+        <input type="text" placeholder="请输入职务">
+        <br>
+        简要描述一下你的工作内容：
+        <textarea>请在此处输入：</textarea>
+        
+        <hr>
+        <input type="checkbox">我愿意同意以下协议
+        <ul>
+            <li><a href="协议1.html">协议1</a></li>
+            <li><a href="协议2.html">协议2</a></li>
+        </ul>
+        <br>
+        下面是另一份练习
+        <ul>
+            <li><a href="新闻列表.html">2026-1-8今日热点新闻</a></li>
+        </ul>
+
+        <hr>
+        <button type="submit">申请注册</button>
+        <button type="reset">重新输入</button>
+    </form>
+</body>
+</html>
