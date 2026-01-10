@@ -1,0 +1,47 @@
+.tou {
+    /*画盒子*/
+    height: 50px;
+    background-color: aliceblue;
+    /*居中*/
+    line-height: 40px;
+    text-align: center;
+    /*字体样式*/
+    font-size: 30px;
+    color: #333333;
+}
+
+.zhushi {
+    /*段落字体设置*/
+    line-height: 20px;
+    font-size: 14px;
+    color: #999999;
+}
+
+.https {
+    line-height: 20px;
+    font-size: 14px;
+    color: #999999;
+    text-decoration: none;   
+}
+.duanluo {
+    /*段落字体设置*/
+    line-height: 20px;
+    font-size: 18px;
+    color: #333333;
+    /*设置段首缩进*/
+    text-indent: 2em;
+}
+
+.img {
+    /*居中*/
+    text-align: center;
+}
+
+.zou {
+    /*段落字体设置*/
+    line-height: 20px;
+    font-size: 14px;
+    color: #666666;
+    /*居中*/
+    text-align: center;
+}
